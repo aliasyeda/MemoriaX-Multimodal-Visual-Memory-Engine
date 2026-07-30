@@ -246,5 +246,5 @@ A person is preparing tomato garlic rice in a frying pan.
 
 ---
 
-# Developed by
+ Developed by:
 # Syeda Alia Samia
