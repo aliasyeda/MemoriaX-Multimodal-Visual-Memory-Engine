@@ -2,6 +2,8 @@
 
 # MemoriaX: Multimodal Visual Memory Engine
 
+![MemoriaX-Multimodal-Visual-Memory-Engine](memoriax.png)
+
 
 
 
