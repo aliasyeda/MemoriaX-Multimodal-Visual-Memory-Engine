@@ -2,6 +2,13 @@
 
 # MemoriaX: Multimodal Visual Memory Engine
 
+
+
+
+
+
+
+
 ## Overview
 
 MemoriaX is an AI-powered multimodal visual memory system designed to organize, understand, and retrieve information from egocentric videos using natural language.
